@@ -7,7 +7,7 @@ loreum this is the test repo
 
 ### Start up
 
-start with the `code` **owais** 
+start with the `code` **Hello World** 
 
 ```
 print('hello world')
